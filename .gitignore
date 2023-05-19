@@ -6,3 +6,4 @@ venv/
 .idea
 .idea/
 __pycache__/
+.ipynb_checkpoints/
