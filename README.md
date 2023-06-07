@@ -16,3 +16,4 @@ Carpeta que conté el codi
 Carpeta que conté les dades del projecte
 
     -heart.csv -> Dataset proporcionat
+    -heart_new.csv -> Dataset resultant de la pràctica
