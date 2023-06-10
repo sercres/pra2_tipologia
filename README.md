@@ -6,6 +6,8 @@ Autors: Sergi Crespi i Pau Bernabé
 
 ## Arxius presents al repositori
 
+    -pauconstans_screspia_PRA2.pdf
+
 ### /code 
 Carpeta que conté el codi
 
