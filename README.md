@@ -6,7 +6,7 @@ Autors: Sergi Crespi i Pau Bernabé
 
 ## Arxius presents al repositori
 
-    -pauconstans_screspia_PRA2.pdf
+    -pauconstans_screspia_PRA2.pdf -> Arxiu de la memòria de la pràctica 2
 
 ### /code 
 Carpeta que conté el codi
